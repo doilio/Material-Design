@@ -11,6 +11,7 @@
     <!--My Style-->
     <style name="AnotherStyle">
         <item name="android:textColor">#ff009688</item>
+        <item name="android:textStyle">bold</item>
     </style>
 
 </resources>
